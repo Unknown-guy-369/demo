@@ -1,2 +1,3 @@
 welcome to github
-wufdgiyfsdgiyhi
+Here we go to learn about github
+and git 
